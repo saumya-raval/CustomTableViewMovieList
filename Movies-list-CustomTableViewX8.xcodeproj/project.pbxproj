@@ -13,6 +13,7 @@
 		B8D7E73A1E5CF98400D7D466 /* Movies_list_CustomTableViewX8.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = B8D7E7381E5CF98400D7D466 /* Movies_list_CustomTableViewX8.xcdatamodeld */; };
 		B8D7E73C1E5CF98400D7D466 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B8D7E73B1E5CF98400D7D466 /* Assets.xcassets */; };
 		B8D7E73F1E5CF98400D7D466 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B8D7E73D1E5CF98400D7D466 /* LaunchScreen.storyboard */; };
+		B8D7E7471E5CFC0500D7D466 /* moviesTableCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8D7E7461E5CFC0500D7D466 /* moviesTableCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		B8D7E73B1E5CF98400D7D466 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B8D7E73E1E5CF98400D7D466 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B8D7E7401E5CF98400D7D466 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B8D7E7461E5CFC0500D7D466 /* moviesTableCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = moviesTableCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				B8D7E73D1E5CF98400D7D466 /* LaunchScreen.storyboard */,
 				B8D7E7401E5CF98400D7D466 /* Info.plist */,
 				B8D7E7381E5CF98400D7D466 /* Movies_list_CustomTableViewX8.xcdatamodeld */,
+				B8D7E7461E5CFC0500D7D466 /* moviesTableCell.swift */,
 			);
 			path = "Movies-list-CustomTableViewX8";
 			sourceTree = "<group>";
@@ -143,6 +146,7 @@
 				B8D7E7341E5CF98400D7D466 /* ViewController.swift in Sources */,
 				B8D7E73A1E5CF98400D7D466 /* Movies_list_CustomTableViewX8.xcdatamodeld in Sources */,
 				B8D7E7321E5CF98400D7D466 /* AppDelegate.swift in Sources */,
+				B8D7E7471E5CFC0500D7D466 /* moviesTableCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
